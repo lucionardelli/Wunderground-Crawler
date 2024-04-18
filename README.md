@@ -1,6 +1,6 @@
 # Weather Data Scraper
 
-This is a Scrapy spider designed to scrape weather data from this site: https://www.wunderground.com/dashboard/pws/
+This is a crappy spider designed to scrape weather data from this site: https://www.wunderground.com/dashboard/pws/
 
 ## Setup
 
